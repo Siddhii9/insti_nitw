@@ -29,7 +29,7 @@ export default function UpcomingEvents() {
   }, []);
   return (
     <>
-    <div className='recent-events-container'>
+    <div className='upcoming-events-container'>
     {allCards.length !== 0 ? (
       allCards.map((card) => (
         <div key={card.id}>

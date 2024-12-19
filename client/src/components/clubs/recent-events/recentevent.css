@@ -2,6 +2,7 @@
     justify-content: space-evenly;
     display: flex;
     flex-wrap: wrap;
+    gap: 1em;
 }
 
 /* HTML: <div class="loader"></div> */
